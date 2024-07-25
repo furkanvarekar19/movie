@@ -10,7 +10,7 @@
 
 .posterImage__overlay {
     position: absolute;
-    padding: 5rem;
+    padding: 4rem;
     bottom: 0px;
     height: 70%;
     display: flex;
@@ -29,25 +29,8 @@
 
 .posterImage__title {
     font-weight: 900;
-    font-size: 4rem;
+    font-size: 2rem;
     margin-bottom: 0.4rem;
     text-align: left;
 }
 
-.posterImage__runtime {
-    font-size: 2rem;
-    margin-bottom: 1rem;
-}
-
-.posterImage__rating {
-    margin-left: 3rem;
-}
-
-.posterImage__description {
-    font-style: italic;
-    font-size: 1rem;
-    margin-bottom: 0.25rem;
-    display: flex;
-    text-align: left;
-    width: 50%;
-}
